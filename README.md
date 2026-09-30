@@ -1,4 +1,4 @@
-# Ivan Petrov
+# Frutella
 
 I'm building **[Caissa Codex](https://chesscodex.org)**, a free chess opening explorer:
 3,690 openings with move trees, Lichess statistics by rating, master games and
