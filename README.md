@@ -1,17 +1,20 @@
-# Frutella
+# Ivan
 
-I'm building **[Caissa Codex](https://chesscodex.org)**, a free chess opening explorer:
-3,690 openings with move trees, Lichess statistics by rating, master games and
-Stockfish evaluations. It runs on a Raspberry Pi 5 at home, behind
-a Cloudflare Tunnel, and the source is open: [agent-carl/chesscodex](https://github.com/agent-carl/chesscodex).
+Web developer in Oslo. I build fast, plain websites and small Python tools
+that save people time.
 
-### What I work with
+I run [Caissa Codex](https://chesscodex.org), a free reference of 3,690 named
+chess openings: the moves on a board, Lichess statistics by rating, master games
+and Stockfish evaluations. It is PHP and SQLite with no framework, on a server I
+look after myself. The code is open: [agent-carl/chesscodex](https://github.com/agent-carl/chesscodex).
 
-- **Web:** PHP 8, SQLite, vanilla JavaScript, HTML and CSS, no frameworks
-- **Server:** Linux (Raspberry Pi OS), nginx, PHP-FPM, systemd, Bash
-- **Infrastructure:** Cloudflare Tunnel, caching and R2 backups, Git and GitHub Actions
-- **Also:** SEO with Search Console, and a lot of chess
+Some smaller work, with live demos on [my portfolio](https://agent-carl.github.io/):
 
-### Outside of code
+- [page-speed-demo](https://github.com/agent-carl/page-speed-demo): one landing page before and after speed work, with the measurements
+- [oslo-bike-shop-demo](https://github.com/agent-carl/oslo-bike-shop-demo): a Norwegian and English site for a made-up bike workshop
+- [excel-report-automation](https://github.com/agent-carl/excel-report-automation): turns messy CSV and Excel exports into one clean report
 
-Counter-Strike 2.
+I work with PHP, SQLite, JavaScript, HTML and CSS; Python with pandas and
+openpyxl; Linux, nginx and Cloudflare; and Search Console for SEO.
+
+Away from the keyboard: chess and Counter-Strike 2.
