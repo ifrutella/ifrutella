@@ -3,6 +3,9 @@
 Web developer in Oslo. I build fast, plain websites and small Python tools
 that save people time.
 
+På norsk: jeg er webutvikler i Oslo og lager raske nettsider og små
+Python-verktøy. Skriv gjerne til info@chesscodex.org.
+
 I run [Caissa Codex](https://chesscodex.org), a free reference of 3,690 named
 chess openings: the moves on a board, Lichess statistics by rating, master games
 and Stockfish evaluations. It is PHP and SQLite with no framework, on a server I
